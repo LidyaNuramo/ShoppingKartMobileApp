@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Shopping Kart</string>
+    <string name="login">Log into your Account </string>'
+    <string name="login2">Login </string>
+    <string name="login3">Back to Login </string>
+    <string name="user">Username: </string>
+    <string name="password">Password: </string>
+    <string name="user2">Username</string>
+    <string name="password2">Password</string>
+    <string name="email">Email:</string>
+    <string name="email2">Email@example.com</string>
+    <string name="register">Register Account</string>
+    <string name="register2">Register</string>
+    <string name="list">Your shopping lists: </string>
+    <string name="add">Add a new list</string>
+    <string name="name">Name: </string>
+    <string name="desc">Description: </string>
+    <string name="submit">Submit</string>
+    <string name="logout">Log Out</string>
+</resources>
